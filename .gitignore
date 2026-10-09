@@ -4,6 +4,4 @@ __pycache__/
 build/
 dist/
 .venv/
-venv/
-.env
 .pytest_cache/
